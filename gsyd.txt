@@ -18,7 +18,6 @@ CCTV-15 音乐,http://39.135.32.28:6610/PLTV/77777777/224/3221225693/index.m3u8?
 CCTV-16 奥林匹克,http://39.135.32.28:6610/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-17 农业农村,http://39.135.32.28:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-4K 超高清,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1
-欢笑剧场-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 
 卫视频道,#genre#
 大湾区卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1
