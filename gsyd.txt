@@ -3,7 +3,7 @@ CCTV-1 综合,http://39.135.32.28:6610/PLTV/77777777/224/3221225654/index.m3u8?s
 CCTV-2 财经,,http://39.135.32.28:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-3 综艺,http://39.135.32.28:6610/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-4 中文国际,http://39.135.32.28:6610/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-CCTV-5 体育,http://39.135.32.28:6610/PLTV/77777777/224/3221225516/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV-5 体育,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
 CCTV-5+ 赛事体育,http://39.135.32.28:6610/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-6 电影,http://39.135.32.28:6610/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-7 国防军事,http://39.135.32.28:6610/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1&IASHttpSessionId=OTT
