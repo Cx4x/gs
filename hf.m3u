@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="162178" tvg-name="UK: BBC ONE EAST W ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",UK: BBC ONE EAST W ◉
+ffmpeg http://king4k.one:80/play/live.php?mac=00:1A:79:73:69:10&stream=162178&extension=ts&play_token=TrYlekGrm1
+#EXTINF:-1 tvg-id="162180" tvg-name="UK: BBC ONE NI HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",UK: BBC ONE NI HD ◉
+ffmpeg http://king4k.one:80/play/live.php?mac=00:1A:79:73:69:10&stream=162180&extension=ts&play_token=wgldj8nHSx
