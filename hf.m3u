@@ -1,4 +1,16 @@
-#EXTINF:-1 tvg-id="162178" tvg-name="UK: BBC ONE EAST W ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",UK: BBC ONE EAST W ◉
-http://king4k.one:80/play/live.php?mac=00:1A:79:73:69:10&stream=162178&extension=ts&play_token=TrYlekGrm1
-#EXTINF:-1 tvg-id="162180" tvg-name="UK: BBC ONE NI HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",UK: BBC ONE NI HD ◉
-http://king4k.one:80/play/live.php?mac=00:1A:79:73:69:10&stream=162180&extension=ts&play_token=wgldj8nHSx
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png"group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 1
+https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_1
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png"group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 1
+https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_1_BU
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png"group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 2
+https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_2
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png"group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 2
+https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_2_BU
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png"group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 3
+https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_3
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png"group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 3
+https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_3_BU
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png"group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 4
+https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_4
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png"group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 4
+https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_4_BU
