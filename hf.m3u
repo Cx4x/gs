@@ -12,6 +12,8 @@ http://king4k.one:80/play/live.php?mac=00:1A:79:73:69:10&stream=605705&extension
 http://cord-cutter.net:8080//chino006%40live.com/2g7dP4JDPjY/160297
 #EXTINF:-1 tvg-id="1414027" tvg-name="M+: EUROSPORT 1 ᴿᴬᵂ" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",EUROSPORT 4K
 https://7pal.short.gy/eusport4k
+#EXTINF:-1 tvg-id="441327" tvg-name="AU: SBS BRISBANE" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/aus.sbs.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",AU: SBS BRISBANE
+ffmpeg http://king4k.one:80/play/live.php?mac=00:1A:79:73:69:10&stream=441327&extension=ts&play_token=iXRhvMkPbu
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/171/202204010048_1626679645474_H169_1080.jpg" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",CCTV-5 体育
 https://my5353.com/LF2g8
 
