@@ -1,5 +1,17 @@
-#EXTINF:-1 tvg-id="1414027" tvg-name="M+: EUROSPORT 1 ᴿᴬᵂ" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",UK-Film 4
-http://cord-cutter.net:8080//chino006%40live.com/2g7dP4JDPjY/53702
+#EXTINF:34 aktv-group="astro" tvg-id="astro/eurosport1" tvg-logo="" provider="astro" provider-logo="" provider-type="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",EuroSport 1
+https://s1.tvm4a1.cfd/astro/eurosport1/AKTV.m3u8
+
+#EXTINF:35 aktv-group="astro" tvg-id="astro/eurosport2" tvg-logo="" provider="astro" provider-logo="" provider-type="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",EuroSport 2
+https://s1.tvm4a1.cfd/astro/eurosport2/AKTV.m3u8
+
+#EXTINF:36 aktv-group="astro" tvg-id="astro/tntsports1" tvg-logo="" provider="astro" provider-logo="" provider-type="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 1
+https://s1.tvm4a1.cfd/astro/tntsports1/AKTV.m3u8
+
+#EXTINF:37 aktv-group="astro" tvg-id="astro/tntsports2" tvg-logo="" provider="astro" provider-logo="" provider-type="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 2
+https://s1.tvm4a1.cfd/astro/tntsports2/AKTV.m3u8
+
+#EXTINF:38 aktv-group="astro" tvg-id="astro/tntsports3" tvg-logo="" provider="astro" provider-logo="" provider-type="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 3
+https://s1.tvm4a1.cfd/astro/tntsports3/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="1414027" tvg-name="M+: EUROSPORT 1 ᴿᴬᵂ" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORT 1
 https://7pal.short.gy/tntspts1
