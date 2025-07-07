@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",EuroSport 1
-https://s1.tvm4a1.cfd/astro/eurosport1/AKTV.m3u8
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",EuroSport 2
-https://s1.tvm4a1.cfd/astro/eurosport2/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 1
 https://s1.tvm4a1.cfd/astro/tntsports1/AKTV.m3u8
@@ -9,30 +5,16 @@ https://s1.tvm4a1.cfd/astro/tntsports1/AKTV.m3u8
 https://s1.tvm4a1.cfd/astro/tntsports2/AKTV.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORTS 3
 https://s1.tvm4a1.cfd/astro/tntsports3/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",EuroSport 1
+https://s1.tvm4a1.cfd/astro/eurosport1/AKTV.m3u8
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",EuroSport 2
+https://s1.tvm4a1.cfd/astro/eurosport2/AKTV.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",TNT SPORT 1
 https://7pal.short.gy/tntspts1
-
 #EXTINF:-1 tvg-id="1414027" tvg-name="M+: EUROSPORT 1 ᴿᴬᵂ" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",EUROSPORT 4K
 https://7pal.short.gy/eusport4k
 
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/171/202204010048_1626679645474_H169_1080.jpg" group-title="🚴🏻‍♂️环法自行车赛🚴🏻‍♂️",CCTV-5 体育
 https://my5353.com/LF2g8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png"group-title="🍔综合体育🍔",TNT SPORTS 1
-https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_1
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png"group-title="🍔综合体育🍔",TNT SPORTS 1
-https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_1_BU
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png"group-title="🍔综合体育🍔",TNT SPORTS 2
-https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_2
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png"group-title="🍔综合体育🍔",TNT SPORTS 2
-https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_2_BU
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png"group-title="🍔综合体育🍔",TNT SPORTS 3
-https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_3
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png"group-title="🍔综合体育🍔",TNT SPORTS 3
-https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_3_BU
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png"group-title="🍔综合体育🍔",TNT SPORTS 4
-https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_4
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png"group-title="🍔综合体育🍔",TNT SPORTS 4
-https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=TNT_Sports_4_BU
