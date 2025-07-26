@@ -1,6 +1,6 @@
 央视频道,#genre#
 CCTV-1 综合,http://39.135.32.28:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-CCTV-2 财经,,http://39.135.32.28:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV-2 财经,http://39.135.32.28:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-3 综艺,http://39.135.32.28:6610/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-4 中文国际,http://39.135.32.28:6610/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-5 体育,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
