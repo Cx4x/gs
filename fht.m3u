@@ -8,15 +8,6 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🌟线路-①🌟",翡翠台
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
 
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🌟线路-②🌟",翡翠台
-http://bx.757888.xyz/api.php?id=fct
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="🌟线路-②🌟",鳳凰中文
-http://bx.757888.xyz/api.php?id=fhzw
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="🌟线路-②🌟",鳳凰資訊
-http://bx.757888.xyz/api.php?id=fhzx
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="🌟线路-②🌟",鳳凰香港
-http://bx.757888.xyz/api.php?id=fhhk
-
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🌟线路-②🌟",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🌟线路-②🌟",翡翠台
