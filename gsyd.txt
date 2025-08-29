@@ -123,9 +123,6 @@ CCTV-14 少儿,http://39.135.32.28:6610/PLTV/77777777/224/3221225648/index.m3u8?
 精品萌宠,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225979/index.m3u8?servicetype=1
 
 咪咕视频,#genre#
-晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-晴彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕视频-4K,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8?servicetype=1
 咪咕视频-1,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225771/index.m3u8?servicetype=1
 咪咕视频-2,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225774/index.m3u8?servicetype=1
