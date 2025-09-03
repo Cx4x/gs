@@ -1,40 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4K 超高清
-https://freetv.top/m2k/cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4K 超高清
-https://freetv.top/m4k/cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4K 超高清
-http://blog.cqshushu.com/tv.php?id=cctv4k
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-1 综合
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4 中文国际
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-7 国防军事
-http://dmggg.tyzb.fun:26355/migu/673168121.m3u8?migutoken=3a5eff1f0dbe86d8833a2058a786b3c100a60d4d17c7d09b8b790c301d831298913107f175191a56caafd3a1dd2983cdde9a8e45685052ab5efd8edfd44a534dc71dc39ec0974c62651af896ef
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-13 新闻
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-1 综合
-http://dmggg.tyzb.fun:26355/migu/608807420.m3u8?migutoken=57bedec79dddf140a7d1aeaa0aa1e2f484b2914cd40734d13123ac1700be08ffe1ac3e4bc0e1f7781d9331321c2e5f4f1d18fe503d9066426b61b7124eab03571226905927f22cc4b94c28e10e
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4 中文国际
-http://dmggg.tyzb.fun:26355/migu/631780421.m3u8?migutoken=567c5e5b902b6f80a6ff515fd0da4be186e38bc7b5256dfda3c05e85f7364e55805fdfe8819f9e475757e757a5d4c6c98a01ad7ee33ccd72f16dbdd951e73d943106ab81224f1ea9a465ca721f
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-13 新闻
-http://dmggg.tyzb.fun:26355/migu/608807423.m3u8?migutoken=d7b6cc3eac046465fe236c2965e3946243ace92809ec4ffa835acbf19f85a23758cc09035119e8dbb5866d0b84d66ffcb757e160fc002572802f546bad72ac31d4554c3c0e5167b0817a685258
-
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-1综合
-http://171.107.72.101:4000/udp/239.81.0.102:4056
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4中文国际
-http://171.107.72.101:4000/udp/239.81.0.96:4056
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-13新闻
-http://171.107.72.101:4000/udp/239.81.0.206:4056
-
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="🇨🇳阅兵专用🇨🇳",广东卫视-4K
-http://8.138.7.223/tv/api.php?id=gdws4k
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="🇨🇳阅兵专用🇨🇳",广东卫视-4K
-http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="🇨🇳阅兵专用🇨🇳",北京卫视-4K
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="🇨🇳阅兵专用🇨🇳",北京卫视-4K
-https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="🇨🇳阅兵专用🇨🇳",深圳卫视-4K
-http://go.bkpcp.top/mg/szws 
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉月付链接已失效👈",👉月付链接已失效👈
+https://cccimg.com/down.php/55a46088ebbcd6dabbbf808758547427.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉请联系客服续费👈",👉请联系客服续费👈
+https://cccimg.com/down.php/55a46088ebbcd6dabbbf808758547427.mp4
