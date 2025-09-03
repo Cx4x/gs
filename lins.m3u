@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4K 超高清
+https://freetv.top/m2k/cctv4k.m3u8
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4K 超高清
+https://freetv.top/m4k/cctv4k.m3u8
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4K 超高清
+http://blog.cqshushu.com/tv.php?id=cctv4k
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-1 综合
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4 中文国际
@@ -22,12 +28,6 @@ http://171.107.72.101:4000/udp/239.81.0.96:4056
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-13新闻
 http://171.107.72.101:4000/udp/239.81.0.206:4056
 
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4K 超高清
-https://freetv.top/m2k/cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4K 超高清
-https://freetv.top/m4k/cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🇨🇳阅兵专用🇨🇳",CCTV-4K 超高清
-http://blog.cqshushu.com/tv.php?id=cctv4k
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="🇨🇳阅兵专用🇨🇳",广东卫视-4K
 http://8.138.7.223/tv/api.php?id=gdws4k
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="🇨🇳阅兵专用🇨🇳",广东卫视-4K
