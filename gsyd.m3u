@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml,https://raw.githubusercontent.com/fongmitv/epg/main/EPG.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.v1.mk/fy.xml,https://hao-wu-liao-a.o0o0o0o0o0o.top/epg/output/filtered_epg.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.v1.mk/fy.xml,https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://epg.pw/xmltv/epg_HK.xml.gz,https://epg.pw/xmltv/epg_TW.xml.gz,https://epg.pw/xmltv/epg_GB.xml.gz,https://epg.pw/xmltv/epg_US.xml.gz,https://gh-proxy.org/https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -105,6 +105,16 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="粤语频道",广东珠江
 http://39.135.32.28:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤语频道",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤语频道",广东体育
+http://ik.kimkimkk.top:2222/rtp/239.0.1.95:5057
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤语频道",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤语频道",广东体育
+http://m.061899.xyz/mg/gdty
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="粤语频道",广东体育
+http://go.bkpcp.top/mg/gdty
 
 #EXTINF:-1,tvg-id="钦州新闻" tvg-name="钦州新闻" tvg-logo="https://11.112114.xyz/logo/钦州新闻.png" group-title="广西频道",钦州新闻
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226306/index.m3u8?servicetype=1
