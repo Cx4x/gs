@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.v1.mk/fy.xml,https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://epg.pw/xmltv/epg_HK.xml.gz,https://epg.pw/xmltv/epg_TW.xml.gz,https://epg.pw/xmltv/epg_GB.xml.gz,https://epg.pw/xmltv/epg_US.xml.gz,https://gh-proxy.org/https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml"
+#EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="湾湾",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="湾湾",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="湾湾",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="湾湾",华视
+rtmp://f13h.mine.nu/sat/tv111
