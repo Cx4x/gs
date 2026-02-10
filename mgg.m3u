@@ -7,30 +7,75 @@ https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",2月10日08:30_NBA常规赛_公牛vs篮网 丁楠
-https://hls.yjjcfw.com/live/10022500762.m3u8?hwSecret=c5d28a94cad89474ff62a51975aaa6656c889f4ba40eba12aab4572dea80c9dd&hwTime=698AA3F1
+#EXTINF:-1 tvg-id="托特纳姆热刺VS纽卡斯尔联" tvg-name="英超 托特纳姆热刺VS纽卡斯尔联 吴桐 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 托特纳姆热刺VS纽卡斯尔联 吴桐 03:15
+http://ik.mengzx.cn:3300/962909822
+#EXTINF:-1 tvg-id="托特纳姆热刺VS纽卡斯尔联" tvg-name="英超 托特纳姆热刺VS纽卡斯尔联 英文原声 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 托特纳姆热刺VS纽卡斯尔联 英文原声 03:15
+http://ik.mengzx.cn:3300/962909810
+#EXTINF:-1 tvg-id="托特纳姆热刺VS纽卡斯尔联" tvg-name="英超 托特纳姆热刺VS纽卡斯尔联 赛场原声 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 托特纳姆热刺VS纽卡斯尔联 赛场原声 03:15
+http://ik.mengzx.cn:3300/962909805
+#EXTINF:-1 tvg-id="埃弗顿VS伯恩茅斯" tvg-name="英超 埃弗顿VS伯恩茅斯 郭灿亮 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 埃弗顿VS伯恩茅斯 郭灿亮 03:15
+http://ik.mengzx.cn:3300/962909939
+#EXTINF:-1 tvg-id="埃弗顿VS伯恩茅斯" tvg-name="英超 埃弗顿VS伯恩茅斯 英文原声 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 埃弗顿VS伯恩茅斯 英文原声 03:15
+http://ik.mengzx.cn:3300/962909927
+#EXTINF:-1 tvg-id="埃弗顿VS伯恩茅斯" tvg-name="英超 埃弗顿VS伯恩茅斯 赛场原声 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 埃弗顿VS伯恩茅斯 赛场原声 03:15
+http://ik.mengzx.cn:3300/962909913
+#EXTINF:-1 tvg-id="切尔西VS利兹联" tvg-name="英超 切尔西VS利兹联 刘畅 贺宇 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 切尔西VS利兹联 刘畅 贺宇 03:00
+http://ik.mengzx.cn:3300/962909992
+#EXTINF:-1 tvg-id="切尔西VS利兹联" tvg-name="英超 切尔西VS利兹联 英文原声 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 切尔西VS利兹联 英文原声 03:15
+http://ik.mengzx.cn:3300/962909981
+#EXTINF:-1 tvg-id="切尔西VS利兹联" tvg-name="英超 切尔西VS利兹联 赛场原声 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 切尔西VS利兹联 赛场原声 03:15
+http://ik.mengzx.cn:3300/962909963
+#EXTINF:-1 tvg-id="切尔西VS利兹联" tvg-name="英超 切尔西VS利兹联 刘畅 贺宇 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 切尔西VS利兹联 刘畅 贺宇 03:00
+http://ik.mengzx.cn:3300/962910016
+#EXTINF:-1 tvg-id="那不勒斯VS科莫" tvg-name="意大利杯 那不勒斯VS科莫 石庆圣 李彦 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="咪咕体育",意大利杯 那不勒斯VS科莫 石庆圣 李彦 03:45
+http://ik.mengzx.cn:3300/962901035
+#EXTINF:-1 tvg-id="那不勒斯VS科莫" tvg-name="意大利杯 那不勒斯VS科莫 赛场原声 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="咪咕体育",意大利杯 那不勒斯VS科莫 赛场原声 03:45
+http://ik.mengzx.cn:3300/962900944
+#EXTINF:-1 tvg-id="西汉姆联VS曼联" tvg-name="英超 西汉姆联VS曼联 苏东 徐阳 李子琪 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 西汉姆联VS曼联 苏东 徐阳 李子琪 03:45
+http://ik.mengzx.cn:3300/962909744
+#EXTINF:-1 tvg-id="西汉姆联VS曼联" tvg-name="英超 西汉姆联VS曼联 英文原声 04:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 西汉姆联VS曼联 英文原声 04:00
+http://ik.mengzx.cn:3300/962909727
+#EXTINF:-1 tvg-id="西汉姆联VS曼联" tvg-name="英超 西汉姆联VS曼联 赛场原声 04:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="咪咕体育",英超 西汉姆联VS曼联 赛场原声 04:00
+http://ik.mengzx.cn:3300/962909692
+#EXTINF:-1 tvg-id="尼克斯VS步行者" tvg-name="NBA 尼克斯VS步行者 董倡硕 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="咪咕体育",NBA 尼克斯VS步行者 董倡硕 08:25
+http://ik.mengzx.cn:3300/962933128
+#EXTINF:-1 tvg-id="尼克斯VS步行者" tvg-name="NBA 尼克斯VS步行者 英文原声 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="咪咕体育",NBA 尼克斯VS步行者 英文原声 08:25
+http://ik.mengzx.cn:3300/962933180
+#EXTINF:-1 tvg-id="火箭VS快船" tvg-name="NBA 火箭VS快船 邵化谦 马健 秋童 08:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="咪咕体育",NBA 火箭VS快船 邵化谦 马健 秋童 08:45
+http://ik.mengzx.cn:3300/962933242
+#EXTINF:-1 tvg-id="火箭VS快船" tvg-name="NBA 火箭VS快船 英文原声 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="咪咕体育",NBA 火箭VS快船 英文原声 08:55
+http://ik.mengzx.cn:3300/962933312
+#EXTINF:-1 tvg-id="太阳VS独行侠" tvg-name="NBA 太阳VS独行侠 李天宇 殷文玉 廖昕阳 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="咪咕体育",NBA 太阳VS独行侠 李天宇 殷文玉 廖昕阳 09:45
+http://ik.mengzx.cn:3300/962933154
+#EXTINF:-1 tvg-id="太阳VS独行侠" tvg-name="NBA 太阳VS独行侠 英文原声 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="咪咕体育",NBA 太阳VS独行侠 英文原声 09:55
+http://ik.mengzx.cn:3300/962933138
+#EXTINF:-1 tvg-id="湖人VS马刺" tvg-name="NBA 湖人VS马刺 连睿 苏群 佳依 11:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="咪咕体育",NBA 湖人VS马刺 连睿 苏群 佳依 11:15
+http://ik.mengzx.cn:3300/962933295
+#EXTINF:-1 tvg-id="湖人VS马刺" tvg-name="NBA 湖人VS马刺 郑泽鹏 11:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="咪咕体育",NBA 湖人VS马刺 郑泽鹏 11:25
+http://ik.mengzx.cn:3300/962933315
+#EXTINF:-1 tvg-id="湖人VS马刺" tvg-name="NBA 湖人VS马刺 王晓晨 11:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="咪咕体育",NBA 湖人VS马刺 王晓晨 11:25
+http://ik.mengzx.cn:3300/962933260
+#EXTINF:-1 tvg-id="湖人VS马刺" tvg-name="NBA 湖人VS马刺 英文原声 11:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="咪咕体育",NBA 湖人VS马刺 英文原声 11:25
+http://ik.mengzx.cn:3300/962933236
 
-#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",2月10日08:30_NBA常规赛_爵士vs热火 彭磊
-https://hls.yjjcfw.com/live/962933075.m3u8?hwSecret=1a168e87d21987f9a9c4696dd9e832f44728bd417d9e0ae416cacfe87b489211&hwTime=698AA3C3
 
-#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",2月10日08:30_NBA常规赛_雄鹿vs魔术 刘乘源
-http://hls.sportsteam356.com/live/22500764.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",2月10日09:00_NBA常规赛_老鹰vs森林狼 王兆丰
-https://hls.jgdhds.com/live/22500765.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",2月10日09:00_NBA常规赛_国王vs鹈鹕 石楷文
-https://hls.htfbudv.com/live/22500766.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",2月10日10:00_NBA常规赛_骑士vs掘金 管维佳 李雪儿
-https://hls.jgdhds.com/live/22500767.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",2月10日11:00_NBA常规赛_灰熊vs勇士 柯凡 沈知渝 辰辰
-https://hls.jgdhds.com/live/22500768.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",2月10日11:00_NBA常规赛_雷霆vs湖人 段冉 孔德昕 炼炼
-https://live2.trendgallary.com/live/62925287_932b9ec2e69e48b2e83e5fdef9546f78.m3u8
+#EXTINF:-1 tvg-id="江原FCVS上海海港" tvg-name="亚冠精英 江原FCVS上海海港 石庆圣 李彦 魏欣怡 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="咪咕体育",亚冠精英 江原FCVS上海海港 石庆圣 李彦 魏欣怡 17:45
+http://ik.mengzx.cn:3300/962910884
+#EXTINF:-1 tvg-id="江原FCVS上海海港" tvg-name="亚冠精英 江原FCVS上海海港 赛场原声 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="咪咕体育",亚冠精英 江原FCVS上海海港 赛场原声 17:45
+http://ik.mengzx.cn:3300/962910895
 
 
-#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",2月10日11:00_NBA常规赛_76人vs开拓者 王子星 苏群 婧雯
-https://hls.sportsteam25.com/live/22500770.m3u8
+#EXTINF:-1 tvg-id="马尼拉电气VS琉球黄金帝王" tvg-name="东亚超级联赛 马尼拉电气VS琉球黄金帝王 清流播出3 19:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/3/100000001347106aef35.png" group-title="咪咕体育",东亚超级联赛 马尼拉电气VS琉球黄金帝王 清流播出3 19:35
+http://ik.mengzx.cn:3300/961479000
+#EXTINF:-1 tvg-id="河内公安VS淡滨尼流浪者" tvg-name="亚冠二级 河内公安VS淡滨尼流浪者 鹿中原 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="咪咕体育",亚冠二级 河内公安VS淡滨尼流浪者 鹿中原 20:00
+http://ik.mengzx.cn:3300/962911011
+#EXTINF:-1 tvg-id="河内公安VS淡滨尼流浪者" tvg-name="亚冠二级 河内公安VS淡滨尼流浪者 赛场原声 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="咪咕体育",亚冠二级 河内公安VS淡滨尼流浪者 赛场原声 20:00
+http://ik.mengzx.cn:3300/962911018
+#EXTINF:-1 tvg-id="拉查布里府VS万隆" tvg-name="亚冠二级 拉查布里府VS万隆 乔迁 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="咪咕体育",亚冠二级 拉查布里府VS万隆 乔迁 20:00
+http://ik.mengzx.cn:3300/962911030
+#EXTINF:-1 tvg-id="拉查布里府VS万隆" tvg-name="亚冠二级 拉查布里府VS万隆 赛场原声 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="咪咕体育",亚冠二级 拉查布里府VS万隆 赛场原声 20:00
+http://ik.mengzx.cn:3300/962911048
+#EXTINF:-1 tvg-id="阿卡达格VS利雅得胜利" tvg-name="亚冠二级 阿卡达格VS利雅得胜利 刘畅 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="咪咕体育",亚冠二级 阿卡达格VS利雅得胜利 刘畅 21:30
+http://ik.mengzx.cn:3300/962910965
+#EXTINF:-1 tvg-id="阿卡达格VS利雅得胜利" tvg-name="亚冠二级 阿卡达格VS利雅得胜利 赛场原声 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="咪咕体育",亚冠二级 阿卡达格VS利雅得胜利 赛场原声 21:30
+http://ik.mengzx.cn:3300/962910983
