@@ -6,18 +6,31 @@ https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
 
 
 
-
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-21 09:00:00_NBA常规赛_鹈鹕 vs 雄鹿_彭磊
-https://hls.sportsteam356.com/live/22500807.m3u8
-
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-21 09:00:00_NBA常规赛_雷霆 vs 篮网_段冉
-http://hls.jgdhds.com/live/22500808.m3u8
-
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-21 11:00:00_NBA常规赛_湖人 vs 快船_1柯凡 杨鸣 炼炼
-https://326a1331b1d55fc17405aee7d275b037.v.smtcdns.net/txycdn.video.qq.com/1777896902.m3u8?time=1771642871&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=1D7B8BC87BB037C68BA1BD249040B29445426D1F91639B40B3B37083FB60F60875A31104DAF0685108A6A017B632C768549A48F8EB65F4EC647496141C790CC0423D8FA14A13C71A1956743D1B56916EC1FAB2466827F0B6D0255724F4D2A495732CE03BD17DE1A1CBB1D2973F98B4EBBA061AFEAD6F92DE&drmtype=0
-
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-21 11:00:00_NBA常规赛_湖人 vs 快船_2柯凡 杨鸣 炼炼
-http://36.136.91.149/txycdn.video.qq.com/1777896902.m3u8?time=1771643248&from=player&cdn=tcloud&sdtfrom=v1000402212&platform=10201&butype=2&HLSP2P=1&vkey=3C26DDA9E86E2C8DEB90DC28B499A9498C1E5C0E0F11BC15EE867DE3674B43FB8E34CF114C31176748CF1C73EAC6F90C0AE6185D6D651A444E37ECDF0813DD804494165749E25ABE202A24519AC48946A5B77E5D793089BDA850DE10F2DC7180&drmtype=0
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-21 11:00:00_NBA常规赛_开拓者 vs 掘金_孔祥宇 王仕鹏 泱泱
-http://hls.sportsteam25.com/live/22500810.m3u8
-
+#EXTINF:-1 tvg-id="切尔西VS伯恩利" tvg-name="英超 切尔西VS伯恩利 娄一晨 刘越 魏欣怡 22:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 切尔西VS伯恩利 娄一晨 刘越 魏欣怡 22:30
+http://8.129.103.180:1234/963068649
+#EXTINF:-1 tvg-id="切尔西VS伯恩利" tvg-name="英超 切尔西VS伯恩利 冬奥会速度滑冰 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 切尔西VS伯恩利 冬奥会速度滑冰 21:30
+http://8.129.103.180:1234/963161189
+#EXTINF:-1 tvg-id="切尔西VS伯恩利" tvg-name="英超 切尔西VS伯恩利 陈凯冬 何辉 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 切尔西VS伯恩利 陈凯冬 何辉 22:50
+http://8.129.103.180:1234/963068581
+#EXTINF:-1 tvg-id="切尔西VS伯恩利" tvg-name="英超 切尔西VS伯恩利 赛场原声 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 切尔西VS伯恩利 赛场原声 22:45
+http://8.129.103.180:1234/963068547
+#EXTINF:-1 tvg-id="切尔西VS伯恩利" tvg-name="英超 切尔西VS伯恩利 球门后视角 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 切尔西VS伯恩利 球门后视角 22:50
+http://8.129.103.180:1234/963156710
+#EXTINF:-1 tvg-id="切尔西VS伯恩利" tvg-name="英超 切尔西VS伯恩利 英文原声 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 切尔西VS伯恩利 英文原声 22:45
+http://8.129.103.180:1234/963068560
+#EXTINF:-1 tvg-id="布伦特福德VS布莱顿" tvg-name="英超 布伦特福德VS布莱顿 苗锟 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 布伦特福德VS布莱顿 苗锟 22:45
+http://8.129.103.180:1234/963068461
+#EXTINF:-1 tvg-id="布伦特福德VS布莱顿" tvg-name="英超 布伦特福德VS布莱顿 冬奥会速度滑冰 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 布伦特福德VS布莱顿 冬奥会速度滑冰 21:30
+http://8.129.103.180:1234/963161189
+#EXTINF:-1 tvg-id="布伦特福德VS布莱顿" tvg-name="英超 布伦特福德VS布莱顿 赛场原声 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 布伦特福德VS布莱顿 赛场原声 22:45
+http://8.129.103.180:1234/963068438
+#EXTINF:-1 tvg-id="布伦特福德VS布莱顿" tvg-name="英超 布伦特福德VS布莱顿 英文原声 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 布伦特福德VS布莱顿 英文原声 22:45
+http://8.129.103.180:1234/963068456
+#EXTINF:-1 tvg-id="阿斯顿维拉VS利兹联" tvg-name="英超 阿斯顿维拉VS利兹联 黄航 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 阿斯顿维拉VS利兹联 黄航 22:45
+http://8.129.103.180:1234/963068369
+#EXTINF:-1 tvg-id="阿斯顿维拉VS利兹联" tvg-name="英超 阿斯顿维拉VS利兹联 冬奥会速度滑冰 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 阿斯顿维拉VS利兹联 冬奥会速度滑冰 21:30
+http://8.129.103.180:1234/963161189
+#EXTINF:-1 tvg-id="阿斯顿维拉VS利兹联" tvg-name="英超 阿斯顿维拉VS利兹联 赛场原声 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 阿斯顿维拉VS利兹联 赛场原声 22:45
+http://8.129.103.180:1234/963068412
+#EXTINF:-1 tvg-id="阿斯顿维拉VS利兹联" tvg-name="英超 阿斯顿维拉VS利兹联 英文原声 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",英超 阿斯顿维拉VS利兹联 英文原声 22:45
+http://8.129.103.180:1234/963068393
