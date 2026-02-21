@@ -6,12 +6,18 @@ https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-20 09:00:00_NBA常规赛_公牛 vs 猛龙_丁楠
-https://hls.sportsteam25.com/live/22500797.m3u8
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-20 09:30:00_NBA常规赛_马刺 vs 太阳_金浩霆
-https://hls.jgdhds.com/live/22500798.m3u8
 
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-20 11:00:00_NBA常规赛_勇士 vs 凯尔特人_段冉 苏群 辰辰
-https://hls.sportsteam356.com/live/22500799.m3u8
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-20 11:00:00_NBA常规赛_国王 vs 魔术_刘乘源
-https://v.lfsxfj.com/live/100366.m3u8?txSecret=84a707017554567abcf386637a1e685c&txTime=6997D5B6&sign=f62adfbdf6b7b9ba
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-21 09:00:00_NBA常规赛_鹈鹕 vs 雄鹿_彭磊
+https://hls.sportsteam356.com/live/22500807.m3u8
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-21 09:00:00_NBA常规赛_雷霆 vs 篮网_段冉
+http://hls.jgdhds.com/live/22500808.m3u8
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-21 11:00:00_NBA常规赛_湖人 vs 快船_1柯凡 杨鸣 炼炼
+https://326a1331b1d55fc17405aee7d275b037.v.smtcdns.net/txycdn.video.qq.com/1777896902.m3u8?time=1771642871&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=1D7B8BC87BB037C68BA1BD249040B29445426D1F91639B40B3B37083FB60F60875A31104DAF0685108A6A017B632C768549A48F8EB65F4EC647496141C790CC0423D8FA14A13C71A1956743D1B56916EC1FAB2466827F0B6D0255724F4D2A495732CE03BD17DE1A1CBB1D2973F98B4EBBA061AFEAD6F92DE&drmtype=0
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-21 11:00:00_NBA常规赛_湖人 vs 快船_2柯凡 杨鸣 炼炼
+http://36.136.91.149/txycdn.video.qq.com/1777896902.m3u8?time=1771643248&from=player&cdn=tcloud&sdtfrom=v1000402212&platform=10201&butype=2&HLSP2P=1&vkey=3C26DDA9E86E2C8DEB90DC28B499A9498C1E5C0E0F11BC15EE867DE3674B43FB8E34CF114C31176748CF1C73EAC6F90C0AE6185D6D651A444E37ECDF0813DD804494165749E25ABE202A24519AC48946A5B77E5D793089BDA850DE10F2DC7180&drmtype=0
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-21 11:00:00_NBA常规赛_开拓者 vs 掘金_孔祥宇 王仕鹏 泱泱
+http://hls.sportsteam25.com/live/22500810.m3u8
+
