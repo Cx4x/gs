@@ -7,22 +7,50 @@ https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-26 08:30:00_NBA常规赛_活塞 vs 雷霆_彭磊 李克 泱泱
-http://hls.htfbudv.com/live/22500842.m3u8
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-26 08:30:00_NBA常规赛_活塞 vs 雷霆_英文原音
 
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-26 08:30:00_NBA常规赛_猛龙 vs 马刺_石楷文
-http://hls.jgdhds.com/live/22500843.m3u8
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-26 08:30:00_NBA常规赛_猛龙 vs 马刺_英文原音
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:00:00_NBA常规赛_步行者 vs 黄蜂_石楷文
+http://138.2.10.217:35455/txsport/100000:10022500848/362741/1393274900.m3u8?txtoken=9ed6805464fdcc8cff533a524faae9ccf6cd58be6a26db9cf4df60706aa40ff2f9954cdf691d8a0733b3b0df9109762c2a75351ed8db5137fbc76de84b12ad04be5abd812d1b0e3d4c60775f186a72e922fdd93d663b16f7d95e103932965c1e38f64bcf1e1549d08712bfab36fdad13ce1ec528ac9241403dd261ea26
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:00:00_NBA常规赛_步行者 vs 黄蜂_英文原音
 
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-26 08:30:00_NBA常规赛_灰熊 vs 勇士_柯凡 沈知渝 婧雯
-http://hls.htfbudv.com/live/22500844.m3u8#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-26 08:30:00_NBA常规赛_灰熊 vs 勇士_英文原音
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:00:00_NBA常规赛_76人 vs 热火_李雪儿
+http://138.2.10.217:35455/txsport/100000:10022500849/362742/1393275100.m3u8?txtoken=145f79f4dd40e0e6c82ddf3acfb68405fbeb45c141b989eae154be0c58c6169d8d375b426e32bf0a73044645c9f7ea3fbd58ac022587c0b84f16a9e281b6c5d2f16a6058fdadaed8fb584d188a2d2c921e69503524d7e4f05461eea423a09b59db2db9d060b3a684fd8730289f3dfff6121bee6570c5ba3b54083f06a7
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:00:00_NBA常规赛_76人 vs 热火_英文原音
 
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-26 09:00:00_NBA常规赛_火箭 vs 国王_王嘉琦 孔德昕 炼炼
-http://hls.jgdhds.com/live/22500845.m3u8
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-26 09:00:00_NBA常规赛_火箭 vs 国王_英文原音
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:30:00_NBA常规赛_老鹰 vs 奇才_寇逸豪
+http://138.2.10.217:35455/txsport/100000:10022500850/362743/1777889200.m3u8?txtoken=7a696a7d4a2739693a642b736e82a67bd58ee4c383b1e1b911b125fd771b7dd9fa576478391b89c8eaeb54d374c36c03453490d18cfd3ae30f92f6560b6bf3e37b382604c98893bda7d6a66837dece4a292ac26fe7a767c67f7db314fb79527cc33dd914252ba28f9d0912bc5a928dab4ee9c524199e634aac2a7fdff5
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:30:00_NBA常规赛_老鹰 vs 奇才_英文原音
 
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-26 09:00:00_NBA常规赛_雄鹿 vs 骑士_孔祥宇 管维佳
-http://36.136.127.75/txycdn.video.qq.com/1777850102.m3u8?time=1772072928&from=player&cdn=tcloud&sdtfrom=v1000402212&platform=10201&butype=2&HLSP2P=1&vkey=6DD341C67C15F6A666243358F48B8D219906119C917F73FFF65821081ED2D86E81B6D286CF68912F70D4CC58C7297848840A3E7BD13B75C38785C36D846ED3ECEB15617BF09B2D7DEFB1F17E57167B303F3B46FC0E14B2ACB428E6C901E07EF3&drmtype=0
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-26 11:00:00_NBA常规赛_掘金 vs 凯尔特人_王子星
-http://hls.sportsteam356.com/live/22500847.m3u8
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:30:00_NBA常规赛_篮网 vs 马刺_刘乘源
+http://138.2.10.217:35455/txsport/100000:10022500851/362745/1393275300.m3u8?txtoken=b0eb5e897b3d3100ddc90b28dbee5f552839b847c69c98b56ac3844331817c4cf1ad7fce46785ff216dca1d456abea2ccedb25d60b8c5dce71bdb2362b4d3436013b48e7d2f203e2c46669052e7e99007ae98e952f97bfd6cac6bc8679631887879f5fd0752df9bd7491b6cb9a88a2a0d67679005e262f89f440b6649f
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:30:00_NBA常规赛_篮网 vs 马刺_英文原音
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:30:00_NBA常规赛_魔术 vs 火箭_王子星 管维佳 辰辰
+http://rihou.cc:555/tv/27NBA咪述述
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:30:00_NBA常规赛_魔术 vs 火箭_二路-狂言Doggy
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 08:30:00_NBA常规赛_魔术 vs 火箭_英文原音
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 09:00:00_NBA常规赛_公牛 vs 开拓者_王嘉琦 吴谦
+http://rihou.cc:555/tv/27NBA咪述旁
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 09:00:00_NBA常规赛_公牛 vs 开拓者_英文原音
+
+
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 09:30:00_NBA常规赛_独行侠 vs 国王_柯凡 孔德昕
+http://138.2.10.217:35455/txsport/100000:10022500854/362747/1777889600.m3u8?txtoken=d9ae3faaa27f310653afcd709cc99ad22ba6d446bd48ec3ef2cd071d7d59aba315baa3d99ef83e87d73ed157176948725350e803fa5f758ca60d06002920ed703efbbfb4c11998488ff32ba7156e0a28ace25e3176782ea77b365aaaf7b44f5f29668b16f356aab1a03efd887648310a05a3c293a4170bcb11cf02956f
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 09:30:00_NBA常规赛_独行侠 vs 国王_英文原音
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 10:00:00_NBA常规赛_太阳 vs 湖人_孔祥宇 杨鸣 泱泱
+http://138.2.10.217:35455/txsport/100000:10022500855/362782/1393284000.m3u8?txtoken=9315b0445b0ef00e9f24407a2d315cb10d8cb93d1a735a23d4d3e37caed0fab2f7864b48a74ce2e32c1ab1ca17d805d2e3fc01bb9e91767b50ab62e007f10fe89cfbe3b5456717f0ba94b44c81cfb507fca4fb7ca2dabac4f294ee5a2538a598d5c6870119a53894b93c9c43ef094c747d4e4eed23f3ef90103329588a
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 10:00:00_NBA常规赛_太阳 vs 湖人_二路-徐静雨
+http://rihou.cc:555/tv/27NBA咪旁评
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 10:00:00_NBA常规赛_太阳 vs 湖人_英文原音
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 10:00:00_NBA常规赛_爵士 vs 鹈鹕_王兆丰
+http://138.2.10.217:35455/txsport/100000:10022500856/362748/1777889900.m3u8?txtoken=d354b38f36ea34ac335d467c48fe80cfbf2437331e8c0fae58900d47ba8c77938bf91edc07f14cbfea1a5ccf605284714fa4d95acc265e42ae5878e1ae3317a3148c1cf1201231f51abae99bad44c678d1a765da6947a59f691957f30010cb4f556360eb238d42a993f84aadebac39cf5fe4a4ad0f1ea2fa025ed931ac
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 10:00:00_NBA常规赛_爵士 vs 鹈鹕_英文原音
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 11:00:00_NBA常规赛_快船 vs 森林狼_彭磊 殳海 婧雯
+http://rihou.cc:555/tv/27NBA咪解评
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2026-02-27 11:00:00_NBA常规赛_快船 vs 森林狼_英文原音
+
