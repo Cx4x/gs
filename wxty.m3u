@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="🏵赛事-F1🏵",五星体育
+https://181166.xyz/wxty1
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="🏵赛事-F1🏵",五星体育
+https://181166.xyz/wxty2
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="🏵赛事-F1🏵",五星体育
+https://tv.iill.top/kdf/1605
+
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="🏵赛事-F1🏵",五星体育{V6网络专用}
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="🏵赛事-F1🏵",五星体育 {上海移动专用}
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="🏵赛事-F1🏵",五星体育 {上海联通专用}
+http://live.zhongping.jsinfo.net:6060/live/program/live/wxtyhd8m/8000000/mnf.m3u8?m3u8_level=2
+
+#EXTINF:-1 tvg-name="APTV" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🏵赛事-F1🏵",💎以下频道需要魔法💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
+#EXTINF:-1 tvg-name="APTV" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🏵赛事-F1🏵",💎自备优质稳定的魔法💎
+https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
+#EXTINF:-1 tvg-name="Sky Sports F1 4K" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="🏵赛事-F1🏵",Sky Sports F1 4K
+https://a1xs.vip/2000016
+#EXTINF:-1 tvg-name="Sky Sports F1 4K" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="🏵赛事-F1🏵",Sky Sports F1 4K
+https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 tvg-id="gj" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="🏵赛事-F1🏵",F1-TV PRO
+http://fortv.cc:8080//ajPk0k/919128/125947
+
+#EXTINF:-1 tvg-id="gj" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="🏵赛事-F1🏵",Sky Sports F1 50fps
+http://1tv41.icu:8080/phi@live.ca/phi@3574/53704
+#EXTINF:-1 tvg-id="gj" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="🏵赛事-F1🏵",Sky Sports F1 50fps
+http://1tv41.icu:8080/phi@live.ca/phi@3574/35244
